@@ -1,0 +1,102 @@
+.bloque-info
+{
+	position: absolute;
+	right: 0px;
+	top: 90px;
+	width: 255px;
+}
+.producto-cuadro
+{
+	border: 1px solid rgb(239, 239, 239);
+	display: inline-block;
+	height: auto;
+	margin: 30px 0px 0px 0px;
+	padding: 8px;
+	position: relative;
+	vertical-align: top;
+	width: 180px;
+}
+.bloque-producto
+{
+	display: inline-block;
+	margin: 30px 20px;
+	vertical-align: top;
+	width: 300px;
+}
+.titulo-tematico-especifico
+{
+	color: #333;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: left;
+}
+.costo-actual
+{
+	color: #CF1500;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+}
+.contenido-bloque-articulo p
+{
+	color: gray;
+	font-size: 12px;
+	text-align: left;
+}
+.contenido-bloque-articulo .descripcion-larga
+{
+	text-align: center;
+}
+section.contenido-de-segundo-nivel a:hover
+{
+	box-shadow: 200px 0px 0px #FFA500 inset, -200px 0px 0px #FFA500 inset;
+}
+section.contenido-de-primer-nivel
+{
+	margin: 0 auto;
+	margin-bottom: 10px;
+	max-width: 740px;
+	text-align: center;
+}
+.costo-anterior
+{
+	color: gray;
+	font-size: 12px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+.cantidad
+{
+	color: gray;
+	font-size: 12px;
+	margin: 6px;
+	text-align: center;
+}
+.linea
+{
+	background-color: #B6D800;
+	color: white;
+	display: block;
+	font-size: 12px;
+	margin-top: 7px;
+	padding: 2px 6px;
+	text-decoration: none;
+	width: 100%;
+}
+.contenido-bloque-articulo .marca
+{
+	color: #333;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+.marca-falabella
+{
+	color: olive;
+	font-size: 12px;
+	text-align: center;
+}
+.tacho
+{
+	text-decoration: line-through;
+}
